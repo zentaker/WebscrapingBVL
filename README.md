@@ -3,6 +3,9 @@
 Para iniciar npm i
 Obtiene valores de la bolsa de valores y los almacena en una base de datos
 
+Pra poder iniciar el sistema
+node index.js
+
 Conexion a la bace de datos mediante javascript
 https://www.npmjs.com/package/mysql
 
